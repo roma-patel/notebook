@@ -1,0 +1,1 @@
+goal: in pragmatic coordination framework i.e., a speaker module and listener module, introduce a reinforcer module. we want to maximize the expected cumulative reward, and here the reward takes the form of a discriminative classifier that rewards the speaker for generating less ambiguous expressions. 

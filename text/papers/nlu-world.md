@@ -1,0 +1,12 @@
+what does it mean for AI to have near-human intelligence or language to be "natural"? if we cannot distinguish between machine-produced and human-produced instances? or does the grounded "meaning" representation have to be the same?
+
+approaches:
+formal semantics: logical representation of elements of a sentence (logical structure of a sentence that abstracts from its surface form) s.t. for two sentences that have the same elements that correspond with each other in the same way, their logical representation is the same. however, specific meaning of elements is not dealt with here i.e., ambiguities in word-context usage may occur.
+
+lexical semantics: lexical meaning of distinct units should be uncovered; main paradigm involves decomposing lexical meaning into semantic markers i.e., atomic units of meaning and conceptualization. one problem is that it is difficult to find a finite set of semantic markers i.e., atomicity is not well defined for language. decomposing into units is also popular for verb meanings in terms of thematic roles i.e., the lexical meaning of a verb can be identified by the types of arguments associated with it. again, a problem is that this requires a fixed universal inventory of roles and there may be ambiguity in assigning roles.
+
+prototype theory: categories that consist of different elements that have unequal status. main idea is that some members of a class or category belong more strongly or are higher weighted than others. issues with this involve identifying specific attributes that lead to this imbalance, accounting for category boundaries, abstract non-visual categories and compositionally issues. 
+
+in cognitive semantics, lexical meaning has a conceptual nature i.e., it does not reference an entity in the world but a concept that can be related to or composed of other concepts, and here different word senses can correspond to different senses. this is implemented in semantic networks and lexicons like word net, conceptnet etc.
+
+generative lexicon: associating each lexeme with a  fixed set of word senses cannot capture the generative nature and creative use of language. introduces semantic structures called qualia structures of words, where each qualia structure includes facts about the constituent parts of the entity, its place in a larger domain, its purpose and function and the factors involved in its origin (constitutive role, formal role, telic role, agentive role). 

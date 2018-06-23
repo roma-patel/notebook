@@ -1,0 +1,7 @@
+goal: want a testbed for dialog systems i.e., not something that relies on slot-filling and not neural models that are not goal-oriented (i.e., random generation of social-media language). also shows an end-to-end dialog system based on memory networks.
+
+past work: slot filling is not domain adaptable and end to end dialog systems are adaptable but not goal-oriented. goal-oriented dialog requires skills that go beyond language modeling i.e., asking clear (pragmatic) questions, querying knowledge bases, interpreting results from queries, completing transactions etc.
+
+they aim to break down the broad goal-oriented objective into smaller subtasks to test each one in order to understand performance and proper evaluation of a system. they work in the restaurant reservation domain and design a set of 5 tasks that are grounded with an underlying KB of restaurants and properties. these tasks cover issuing API calls, updating UPI calls, displaying options, providing extra information and conducting full dialogs; where the last is a combination of the previous tasks to generate full dialog. 
+
+also goes over an evaluation of several old-school systems and learning methods i.e., rule-based systems, tf-idf and nearest-neighbor metrics for IR, using embedding representations and finally memory networks. 

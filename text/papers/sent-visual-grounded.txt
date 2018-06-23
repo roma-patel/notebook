@@ -1,0 +1,28 @@
+--- 
+
+kiela et. al
+
+main contribution: explore grounded sentence representations with three different objectives.
+
+1. try to predict image features (not akin to good fellow et. al., mansimov et. al., and other generative work) i.e., simply map the caption to the same space as latent feature representations for the correct image.
+2. try to predict other captions i.e., since each image is annotated with 5 sentences, predict the other sentences.
+3. try to jointly predict both.
+
+essentially learn in a supervised way, sentence representations that fuse two modes of information i.e., visual and text. combine these with existing (either supervised or unsupervised) and measure on benchmarks. 
+
+model: encode a sentence by training a biLSTM on the caption i.e., input is word embeddings, then combine the final left-to-right and right-to-left hidden states and take element wise maximum to get a sentence vector.
+encode an image as the final layer of a resnet.
+
+data: e.g., COCO where each image has 5 captions that are full sentences.
+
+random points: 
+
+1. starts with glove and these are kept static. a global transformation to grounded word space is learned. so can pick up in transfer.
+2. need to compare grounded model to a text-only model with roughly the same number of parameters. 
+
+---
+
+chrupala et. al
+
+main contribution: multi-task objective to predict image and next word in the sentence, given text description. receives both visual and text information as input.
+

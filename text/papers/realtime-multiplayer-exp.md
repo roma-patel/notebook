@@ -1,0 +1,5 @@
+goal: create a framework to allow group behavior experiments i.e., participants that interact in real time. combine node.js with the socket.io module, html5 canvas and jquery for game-theoretic experiments. 
+
+experiments in game theory show that allowing real time interaction dramatically increase co-operation levels and allowing update of perceptions/knowledge through interaction helps achieve a global optimum with respect to a task. 
+
+the paper wants to adapt existing javascript-based tools to run real-time multiplayer experiments directly in the browser; most importantly, a system that does not require an experimenter to be present and administer the experiment and does not cap the number of experiments running simultaneously. the system has been tested and run on AMT, but is platform independent. 
