@@ -61,4 +61,7 @@ use neural modules! don't want to reply on one monolithic structure, but have th
 
 is it reasonable to think that a reasoning process should be split into several, distinct modules that perform their subtask and fire correctly in a task-dependent way and then have this all-encompassing structure that unifies them?
 
- 
+---
+
+
+

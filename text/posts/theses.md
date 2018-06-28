@@ -28,6 +28,7 @@ _Combining Visual Recognition and Computational Linguistics._ Marcus Rohrbach, 2
 
 _Transferrable Representations for Visual Recognition._ Jeffrey Donahue, 2017.
 
+_A Structured Representation of Images for Language Generation and Image Retrieval._ Desmond Elliott, 2014.
 ---
 
 hm making up (what I think, are) presumable names (but possibly mentioned it at some point or in some talk).
@@ -42,6 +43,6 @@ _Compositional Visual Intelligence._ Justin Johnson, 2018.
 
 names slipping away.
 
-luke and dieter fox's student, noah goodman's student, tom's student, post-doc, anna something, max planck, MIT and what ellie mentioned once?
-
+luke and dieter fox's student, noah goodman's student (postdoc?), tom's student, post-doc, anna something, max planck, MIT and what ellie mentioned once?
+i
 ---
