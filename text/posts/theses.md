@@ -44,5 +44,5 @@ _Compositional Visual Intelligence._ Justin Johnson, 2018.
 names slipping away.
 
 luke and dieter fox's student, noah goodman's student (postdoc?), tom's student, post-doc, anna something, max planck, MIT and what ellie mentioned once?
-i
+
 ---
