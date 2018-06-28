@@ -29,6 +29,7 @@ _Combining Visual Recognition and Computational Linguistics._ Marcus Rohrbach, 2
 _Transferrable Representations for Visual Recognition._ Jeffrey Donahue, 2017.
 
 _A Structured Representation of Images for Language Generation and Image Retrieval._ Desmond Elliott, 2014.
+
 ---
 
 hm making up (what I think, are) presumable names (but possibly mentioned it at some point or in some talk).
