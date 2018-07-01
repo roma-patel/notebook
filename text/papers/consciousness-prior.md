@@ -1,0 +1,3 @@
+imagine a function that encapsulates all the weights in an intricate neural connections in the human brain; this corresponds to all prior knowledge, experiences and outcomes and these are what map one representation state to another. but there can exist variants of representation states -- think of this as a result of an agent being placed in different environments, where their reactions and future thoughts differ even when starting from the same function.
+
+the key abstraction is that we, as humans, reasoning about a particular concept,  are not explicity aware of all possible neurons, but only a subset of them that correspond to what we are thinking about at that point in time. so consciousness is a projection of _some_ of the elements in the representation state.
