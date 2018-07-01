@@ -8,7 +8,7 @@
 
 still ongoing, but let's begin with what is done.. san francisco and so much sunshine! there are few cities where you will find Uber drivers exactly your age who study cognitive science at Berkeley, both greek and victorian architecture and presidio style forts amidst quaint coffee shops and glassy corporate buildings. there is the ever present gray ocean mist and gold sunshine and good conversation wherever you will go.
 
-fake AI conference but glorious embarcadero views. this unexpectedly may have been the least exciting part of the trip.
+fake AI conference but glorious embarcadero views. this unexpectedly may have been the least exciting part of the trip. but then again, this says more about aforementioned encounters and the brilliance at the university visits than anything else.
 
 berkeley, running up stairs, but finally arrive in a disheveled office (because of plans to move to another coast?) but it is absolutely and undeniably worth being able to talk about strange psychological work and what I want to work on and what he is already working on and even when functioning on ~2 hours worth of sleep, this is very inspiring. 
 
@@ -20,13 +20,32 @@ then high-school friends and walking around; this is a campus quite like no othe
 
 sitting in a study room, recounting high-school events, walking to a coffee shop and finally leaving to meet more high-school friends in more campuses across the city. reaching around 2am, exhausted, but content.
 
-stanford is almost defined by red brick and open spaces; bicycles rush past you and people walk by with their faces buried in old textbooks. everyone is nicer than they should be and they all make time to speak to me and bestow their wisdom. i'm similarly inspired, but slightly more exhausted. both office-meetings were wonderful; there is so much you can tell from the books on shelves, the height of a desk, the number of monitors and all else that there is to see. both have incredible, incredible insights and my ideas (that I thought weren't actually ideas) seem to be things that they work on as well? it's possible and probable that this is mostly kindness and good advising, but i'm encouraged and excited and want to find a place to do work, even though the sleep deprivation is now quite alarming.
+stanford is almost defined by red brick and open spaces; bicycles rush past you and people walk by with their faces buried in old textbooks. everyone is nicer than they should be and they all make time to speak to me and bestow their wisdom. i'm similarly inspired, but slightly more exhausted. both office-meetings were _brilliant_, forgive the overuse of the word; there is so much you can tell from the books on shelves, the height of a desk, the number of monitors and all else that there is to see. both have brilliant insights and my ideas (that I thought weren't actually ideas) seem to be things that they work on as well? it's possible and probable that this is mostly kindness and good advising, but i'm encouraged and excited and want to find a place to do work, even though the sleep deprivation is now quite alarming.
 
-i was probably the only person in the world who didn't want to go here (and i'm glad i never visited) but i can see it now; the brilliance, the open space and endless corridors and the friends i've made who will be here. 
+i was probably the only person in the world who didn't want to go here (in retrospect, i'm glad i never visited) but i can see it now; the brilliance, the open space and endless corridors and the friends i've made who will be here. 
 
 i'm put off by the architecture (where is the old gray stone, the ivy and the grandeur of pretentious east coast schools?) but the warmth and the sunshine almost makes up for it. 
 
 the airport is exhausting and flights are delayed and all i want to do is to please, _please_ sleep, but i'm finally home and can mostly recap all the conversations. doing reimbursements at the end makes me realise the distance I've covered this year. 
+
+---
+
+new york for the JSALT planning meeting. meeting sam, ian, alex (who I now see probably every day (every hour?) this summer) for the first time. 
+
+another advising meeting with ellie at google. everything is rushed, but we continue our discussion - at the office, in the lift, walking on the street and in between conference room meetings. there is always so much to say and update on and think about with coordination and RSA and vision, grounding, prototypes, exemplars. 
+
+google funded happy hour at an (underground?) bar. dipanjan's stories inevitably involve pizza and his sons and are somehow always entertaining.
+
+two entire days of NYU conference rooms, fixing down workflows, subteams, model architectures and objectives. breaking for dinner and drinks and reconvening the next day.
+
+everything is meticulously planned and articulated and noted down. we all leave, excited (and nervous?) about an intensive 6 weeks of work together this summer.
+
+walking back to Penn station, meeting tom who is on the same train, but forgot, but by a happy coincidence, managed to still make it. we talk for hours(s?) on the train, until one of the stops arrive, and then i'm home.
+
+---
+
+new orleans for naacl.
+
 
 todo: multiple new york trips, broadway, NAACL in new orleans, jazz and dizzying streets, leaving philadelphia, arriving in baltimore, another new york trip and ongoing?
 
@@ -148,5 +167,35 @@ the final train ride is filled with the usual laughter, but we're all sad that t
 another ten-day long trip (i really think these should be made compulsory, everyone must experience the strangeness and wonderfulness and happiness of it all) and this time i know everyone i will be living with.
 
 jim corbett national park; i never saw a tiger, only endless tracks that mark its presence, but the place is wonderful.  
+
+looking out over the valley from the top of the mountain.
+
+singing along the trails with Aish, walking along mountain paths.
+
+early morning wildlife tour trip.
+
+walking to the deserted lawn, being followed by strange people.
+
+stories of leopards and tigers around the camp area. 
+
+rafting in ice cold water. Arjun falling off the raft, we laugh hysterically then all jump off in succession.
+
+---
+
+from school?
+
+dancing on the bed and singing with makeshift hairspray mics.
+
+week long sleepovers and drives to weekend getaways with Tvish.
+
+long walks on carter road.
+
+endless trips to the strip for ice cream.
+
+driving to amby alley, driving to mahbaleshwar, a house full of people i've never met.
+
+playing cricket on the lawn outside the house in amby valley.
+
+go karting with Tvish and Ty.
 
 ---
