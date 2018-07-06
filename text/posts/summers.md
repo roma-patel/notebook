@@ -97,6 +97,22 @@ the house is quiet and you can hear every sound; the _town_ is quiet and you can
 
 barbecue parties and meeting Princeton grad students. they are remarkably down-to-earth, there is no air of pretentiousness and self-acclaimed brilliance. 
 
+a summer of approximation algorithms and convoluted proofs. 
+
+solving intensely hard problem sets in our group, mentoring the beginner group as they learn to write their first proofs. marveling at how easy that was.
+
+giving a lecture for the first time ever. explaining the max flow min cut algorithm, trying to clear any doubts they could possibly have.
+
+midnight trips to the study room to use the whiteboard to write proofs. 
+
+midnight advising meetings.
+
+playing werewolves and card games with the edelmans.
+
+cooking dinner with harsh and ansh.
+
+being forced to chop vegetables with harsh and ansh and (?). walking back after through the woods and the stadium.
+
 eating lunch with invited speakers and hearing them talk about the strangest things. walking to nassau as a group; everyone unanimously chooses bent spoon every time.
 
 getting bent spoon icecream far too often.
@@ -104,6 +120,8 @@ getting bent spoon icecream far too often.
 getting smallworld coffee far too often.
 
 cycling tirelessly up slopes and then it is worth it when you can speed down and rush through the woods and find unexplored paths to bike and walk through.
+
+cycling through the woods and seing the collider for the first time. stopping to stare; to take it all in.
 
 exploring untraversed parts of the campus and walking over the bridge. watching the row-boats, watching people furiously practice to triumph over the other Ivys.
 
