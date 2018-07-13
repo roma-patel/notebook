@@ -45,4 +45,96 @@ Fragile Things
 
 ---
 
+Gaiman?
+
+If I were young as once I was,
+
+and dreams and death more distant then,
+
+I wouldn't split my soul in two,
+
+and keep half in the world of men,
+
+So half of me would stay at home,
+
+and strive for Faërie in vain,
+
+While all the while my soul would stroll
+
+up narrow path, down crooked lane,
+
+And there would meet a fairy lass
+
+and smile and bow with kisses three,
+
+She'd pluck wild eagles from the air
+
+and nail me to a lightning tree
+
+And if my heart would run from her
+
+or flee from her, be gone from her,
+
+She’d wrap it in a nest of stars
+
+and then she'd take it on with her
+
+Until one day she'd tire of it,
+
+all bored with it and done with it.
+
+She'd leave it by a burning brook,
+
+and off brown boys would run with it.
+
+They'd take it and have fun with it
+
+and stretch it long and cruel and thin,
+
+They'd slice it into four and then
+
+they'd string with it a violin.
+
+And every day and every night
+
+they'd play upon my heart a song
+
+So plaintive and so wild and strange
+
+that all who heard it danced along
+
+And sang and whirled and sank and trod
+
+and skipped and slipped and reeled and rolled
+
+Until, with eyes as bright as coals,
+
+they'd crumble into wheels of gold  . . . .
+
+ 
+
+But I am young no longer now,
+
+for sixty years my heart's been gone
+
+To play its dreadful music there,
+
+beyond the valley of the sun.
+
+I watch with envious eyes and mind,
+
+the single–souled, who dare not feel
+
+The wind that blows beyond the moon,
+
+who do not hear the Fairy Reel.
+
+If you don't hear the Fairy Reel,
+
+they will not pause to steal your breath.
+
+When I was young I was a fool.
+
+So wrap me up in dreams and death.
+
 
