@@ -36,8 +36,11 @@ that there are two agents with some sort of informational asymmetry basd on the 
 ---
 
 So Many Ways to Die in Syria
+
 The Last Soup of Allen Ginsburg
+
 A Plan: Barring All Planning
+
 Fragile Things
 
 ---
