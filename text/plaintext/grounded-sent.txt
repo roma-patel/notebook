@@ -1,0 +1,46 @@
+things to worry about:
+
+---
+
+forward functions:
+literal pragmatic
+rsa pragmatic
+ranking loss
+cosine embedding loss
+
+---
+
+encoders:
+
+sent: JSALT encoder (bilstm, linear, max pool) -> then linear for image 
+sent: bilstm, rnn, bow --> image
+images: CNN encoder
+different forward functions
+
+---
+
+loss:
+
+cosine
+bce
+l1 (no!)
+margin
+
+---
+
+things:
+
+tune margin!
+tune temperature, distractor_size
+
+---
+
+less important things:
+
+JSALT hyperparams?
+validate for glue?
+CNN encoder?
+datasets
+
+
+
