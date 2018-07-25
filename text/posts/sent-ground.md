@@ -6,7 +6,7 @@ TODO:
 2. run grounded on MSCOCO to reproduce best results
 3. run grounded on shapeworld etc., to reproduce whatever happens
 4. run weakgrounded in the MT seq2seq skipthought setup
-5. later run the old weakgrounded to reproduced (bad) results
+5. later run the old weakgrounded to reproduce (bad) results
 
 ---
 
