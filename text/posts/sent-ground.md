@@ -1,6 +1,14 @@
 visually grounded sentence representations.
 
 ---
+TODO:
+1. grounded vocab check (!)
+2. run grounded on MSCOCO to reproduce best results
+3. run grounded on shapeworld etc., to reproduce whatever happens
+4. run weakgrounded in the MT seq2seq skipthought setup
+5. later run the old weakgrounded to reproduced (bad) results
+
+---
 
 specifically for the workshop, bear with general purpose representation scenarios _not_ focusing on instances that have visually grounded pairs; our end goal is to derive a good representation for _any_ sentence, even those without visual counterparts (e.g., _"democracy should be abolished."_)
 
