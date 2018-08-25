@@ -61,6 +61,9 @@ what does it mean to be a character? in a first-person retelling, a narrator cou
 
 what is interesting is coreference in a larger sense; especially in stories with convoluted plots that require you to backtrack, consult previous temporal events or require you to trace back in time. but even when you consider a simple, forward-only scenario; can event/location coreference for a novel be modeled? e.g., as humans, we can determine a shift in the story even when it isn't explicitly marked (note: mildy amusing that sometimes humans _can't_ do this; he said that it's actually really hard getting accurate annotations, because this is a hard task to begin with). what's also interesting is how the granularity changes and you don't always consistently have a unit word, sentence, or paragraph, even. 
 
+about learning to colour -- evolved from learning to visualise emotions and then transgressed to learning colours. thinking about whether or not three layered colour image features help over just black and white; it makes sense to think that the larger parameter space can help you learn more, but you should then question exactly what is being learnt; is it learning about categories or learning what it means to be a colour?
+
+
 write more about: modeling characters, plot flow, event flow, scene shifts (also questions about the vision/perceptual/coordination stuff that he had interesting insights on)
 
 ---
