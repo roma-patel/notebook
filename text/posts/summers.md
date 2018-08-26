@@ -46,6 +46,20 @@ walking back to Penn station, meeting tom who is on the same train, but forgot, 
 
 new orleans for naacl.
 
+---
+
+JSALT!
+
+---
+
+Saarbrucken, Germany and wonderful people, none of whom I will see again?
+
+---
+
+home (?), providence, rhode island
+
+---
+
 
 todo: multiple new york trips, broadway, NAACL in new orleans, jazz and dizzying streets, leaving philadelphia, arriving in baltimore, another new york trip and ongoing? the house of Edgar Allan Poe, barbequeing (Alexis, Shuning and baking with bluberries and brownies. trying to plate everything perfectly; we start at Sam's at 6 and assess what we have; too many bags of chips lying on every flat surface, Sam makes lebaneh, we have endless dips, bacon-wrapped dates, salads, nuts, bread grilled to perfection and beer and wine; we move to the 5th floor barbeque; Ellie and I grilling endless skewers of meat and shrimp, marvelling at the blistering heat of the grill, Ian disappears for an hour to return with brussel sprouts, sitting and eating and drinking with the team on the patio, then going back to Sam's for dessert and wine)
 
