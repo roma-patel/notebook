@@ -28,7 +28,9 @@ allow it to cook until golden brown
 ---
 
 spiced cider
+
 .
+
 3 sticks of cinnamon, 1 fresh apple, half an orange
 assorted spices; nutmeg, cinnamon, cloves, pumpkin spice
 pour the cider into a large crockpot
