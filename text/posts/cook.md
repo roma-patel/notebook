@@ -1,5 +1,7 @@
 old school porridge
+
 .
+
 stir honey, cinnamon and nutmeg into almond milk 
 keep aside chopped walnuts and pecans (roasted or not)
 spoon oatmeal, cream, sugar and salt into a saucepan
@@ -11,7 +13,9 @@ simmer until golden brown and top with walnuts and honeycomb
 ---
 
 bazlama (turkish flatbread)
+
 .
+
 fresh thyme, basil, parsley, all finely chopped
 add yeast, salt, sugar and spices to flour (of choice) and stir well
 allow it to sit warm for a few minutes
