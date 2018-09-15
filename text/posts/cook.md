@@ -42,12 +42,34 @@ simmer until colour darkens, then filter and serve piping hot
 ---
 
 warm orange chocolate cake
+
 .
+
+this one needs to be perfected, deeper orange notes as opposed to the sour tangy flavour that exists now?  
+
+bittersweet chocolate, semisweet chocolate (preferably valrhona?)
+one whole orange (or a bottle of orange flavouring as needed)
+finely ground cardamom
+3 sticks of unsalted butter, sugar, salt, cream
+2 eggs, tablespoon of flour
+
+
+heat the chocolate and butter in a saucepan and stir in cream  
+squeeze orange juice into a glass and stir in brown sugar and cardamom  
+once melted, add in nearly all of the orange mixture  
+whisk eggs, sugar and salt together until smooth  
+quickly fold chocolate into the egg mixture along with the flour  
+spoon the batter into ramekins and bake until the sides are firm (not for too long, this is important!)  
+carefully turn over and serve
+
 
 ---
 
 skillet siu mai dumplings
+
 .
+
+200 grams of ground pork, one half of a cabbage, wonton wrappers, 2 eggs, 1 onion, 4 shiitake mushrooms, sesame seeds, sugar, salt, soy sauce, sesame oil, thyme
 
 ---
 
@@ -102,18 +124,7 @@ purple sticky rice shrimp
 
 ---
 
-orange rosemary salmon rice
-.
-
----
-
 sweet lemon poppyseed cake
-.
-
----
-
-
-chocolate hazelnut ravioli
 .
 
 ---
@@ -143,13 +154,16 @@ soba noodle spring rolls
 
 ---
 
-explorations:
+explorations:  
 
-molten orange cardamom chocolate cake
-chocolate rosemary fig tart
-pumpkin cream and salmon
-lemon vinaigrette and cranberry shrimp
-pumpkin dark chocolate 
-rosemary pomegranate garlic salmon
-smoked salmon and plum salad
+molten orange cardamom chocolate cake  
+chocolate rosemary fig tart  
+pumpkin cream and rosemary salmon  
+lemon vinaigrette and cranberry shrimp  
+pumpkin dark chocolate  
+basil pomegranate and thyme salmon  
+smoked salmon and plum salad  
+turkish coffee  
+indian chai  
+madras coffee  
 
