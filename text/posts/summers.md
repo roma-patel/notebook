@@ -214,6 +214,37 @@ rafting in ice cold water. Arjun falling off the raft, we laugh hysterically the
 
 ---
 
+2014
+
+---
+
+post-IIT exhaustion, throwback to high-school, TEDx and rainy days
+
+---
+
+2013
+
+---
+
+the summer camp with Shaina, Aviva and hundreds of unknown faces.
+
+campfire nights, sitting in a circle and singing, dancing near the flames.
+
+staring into the fire as shapes begin to form.
+
+samy says i'm beautiful; the strangeness of the word, how it wasn't something that I had ever thought of until then
+
+kayaking in the river, swimming in the lake
+
+bouldering and the training warpath
+
+sitting on the grass at night, laughing hysterically and circling the key
+
+aviva falling, breaking her leg
+
+
+---
+
 from school?
 
 dancing on the bed and singing with makeshift hairspray mics.
