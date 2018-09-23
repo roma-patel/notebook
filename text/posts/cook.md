@@ -88,6 +88,12 @@ fall harvest everything soup
 
 ---
 
+thai basil drunken noodles
+.
+
+---
+
+
 chocolate kahlua sticky pudding
 .
 
@@ -99,6 +105,16 @@ fig and smoked mozzarella salmon
 ---
 
 pistachio mint labneh
+.
+
+---
+
+panang curried tofu
+.
+
+---
+
+thai red coconut curry
 .
 
 ---
@@ -154,7 +170,7 @@ soba noodle spring rolls
 
 ---
 
-explorations:  
+explorations--that work    
 
 molten orange cardamom chocolate cake  
 chocolate rosemary fig tart  
@@ -166,4 +182,40 @@ smoked salmon and plum salad
 turkish coffee  
 indian chai  
 madras coffee  
+
+---
+
+strange food words   
+
+bain-marie
+barding
+blanche
+bouquet garni
+bruise
+butterfly
+chiffonade
+cloche
+cocotte
+coulis
+en croute
+en papillote
+flute
+fool
+macedoine
+macerate
+mandoline
+mezzaluna
+muddler
+opaque
+parboil
+pare
+pearl
+pith
+roux
+sweating
+tagine
+toque
+truss
+weep
+
 
