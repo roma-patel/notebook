@@ -6,15 +6,15 @@
 
 ---
 
-still ongoing, but let's begin with what is done.. san francisco and so much sunshine! there are few cities where you will find Uber drivers exactly your age who study cognitive science at Berkeley, both greek and victorian architecture and presidio style forts amidst quaint coffee shops and glassy corporate buildings. there is the ever present gray ocean mist and gold sunshine and good conversation wherever you will go.
+still ongoing, but let's begin with what is done; san francisco and so much sunshine! there are few cities where you will find Uber drivers exactly your age that study cognitive science at Berkeley, both greek and victorian architecture and presidio style forts amidst quaint coffee shops and glassy corporate buildings. there is the ever present gray ocean mist and gold sunshine and good conversation wherever you will go.
 
-fake AI conference but glorious embarcadero views. this unexpectedly may have been the least exciting part of the trip. but then again, this says more about aforementioned encounters and the brilliance at the university visits than anything else.
+fake AI conference but glorious embarcadero views. this unexpectedly may have been the least exciting part of the trip. but then again, this says more about aforementioned encounters, the brilliance and the people at the university visits than anything perceptible about the place itself.
 
-berkeley, running up stairs, but finally arrive in a disheveled office (because of plans to move to another coast?) but it is absolutely and undeniably worth being able to talk about strange psychological work and what I want to work on and what he is already working on and even when functioning on ~2 hours worth of sleep, this is very inspiring. 
+berkeley, running up stairs, but finally arrive in a disheveled office - because of plans to move to another coast - but it is absolutely, indisputably worth being able to talk about strange psychological work and what I want to work on and what he is already working on; and even when functioning on ~2 hours worth of sleep, this is all very inspiring. 
 
-walking out in the blinding sunshine along creeks and woods (?) and the tall clock tower on campus, still talking about rationality bounds and human cognition and then it's time for another wonderful meeting. aside: it's slightly dispiriting that inspiration and this spark of enlightenment does not work both ways? i highly doubt that he is _inspired_ by his work at every talk, lecture and recounting of it? 
+walking out in the blinding sunshine along creeks and woods (are these woods? I thought Princeton was alone in its deer-ridden and woodland-esque campus) and the tall clock tower on campus, still speaking of rationality bounds and human cognition and then it's time for another meeting. aside: it's slightly dispiriting that inspiration, this spark of enlightenment does not work both ways? i highly doubt that he is _inspired_ by his work at every talk, lecture and recounting of it? it's almost dispiriting, because it's a wonderful feeling.
 
-the next meeting is incredibly nice (i'm always astounded at people taking the time to listen to almost nonsensical ramblings of stray undergrads). temporal flow of events, plot and story-lines. again, once i'm fully done, have made progress enough in deciphering (?) human reasoning, grounding, this is something that I want to look into.
+the next meeting is nice (i'm always astounded at people taking the time to listen to almost nonsensical ramblings of stray undergrads). temporal flow of events, plot and story-lines. once i'm fully done, have made progress enough in deciphering (?) human reasoning, grounding, this is something that I want to look into.
 
 then high-school friends and walking around; this is a campus quite like no other, a strange, eclectic mixture of wooden bridges and greek amphitheatres, almost run-down buildings but a tangible sense of brilliance around you and always the sparkling sunshine and smell of the sea.
 
