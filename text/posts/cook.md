@@ -45,7 +45,7 @@ warm orange chocolate cake
 
 .
 
-this one needs to be perfected, deeper orange notes as opposed to the sour tangy flavour that exists now?  
+this one needs to be perfected, deeper orange notes as opposed to the tangy flavour that exists now?  
 
 bittersweet chocolate, semisweet chocolate (preferably valrhona?)
 one whole orange (or a bottle of orange flavouring as needed)
@@ -76,15 +76,24 @@ skillet siu mai dumplings
 indian lentil soup
 .
 
+red lentils, turmeric, coriander, thyme, 3 cloves of garlic, 2 red chillies (or powder), cloves, olive oil  
+  
+brown lentils, parsley, garlic, cloves, butter, 1 bay leaf, 1 tomato, mint leaves
+
+
 ---
 
 turkish lentil soup
 .
 
+red lentils, paprika, sweet potato, tomatoes, carrots, olive oil, parsley, thyme, rosemary, cayenne pepper (or pepper flakes), chicken stock, dried mint  
+
 ---
 
 fall harvest everything soup
 .
+
+pumpkin, sweet potato, butternut squash, carrots (anything orange-hued allowed!) parsley, garlic (?), rosemary, thyme, sea salt, vegetable or chicken stock, cream (almond milk)
 
 ---
 
