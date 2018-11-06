@@ -1,6 +1,6 @@
 ---
 
-for now. prototypical, sketch, rsa, navigation, categorisation, grounded sentence.
+for now. prototypical, sketch, rsa, navigation, categorisation, grounded sentence, object hierarchies, ltl
 
 for later. incorporate neural sketch prototype (tom? brain?), spatial navigation (jason?)
 
@@ -32,6 +32,6 @@ storytelling. James and RISD. one grad student teaching (?), photography, sketch
 
 ---
 
-irrelevantly important: choose office space wisely (dylan?), select and schedule around reading groups (stefanie robotics, stefanie language, ellie, eugene, cog-sci, james and dan (?)), college hill, fox point, MIT (roger, josh, nancy, reuben in Fall, nick, sebastian, anna, jon, jacob (!)).
+irrelevantly important: choose office space wisely (dylan?), select and schedule around reading groups (stefanie robotics, stefanie language, ellie, eugene, cog-sci, james and dan (?)), college hill, fox point, i@cambridge!
 
 ---

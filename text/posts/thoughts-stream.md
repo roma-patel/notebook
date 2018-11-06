@@ -63,6 +63,5 @@ is it reasonable to think that a reasoning process should be split into several,
 
 ---
 
-marr hypothesised that all that is needed to reconstruct in its entirety, a 3D object, are a sketch (details, 2.5D) and a shape prior. can an equivalent of the 2.5D sketch for 2D images be found? given a natural image, deconstruct into its sketch form, form a prototypical representation (maybe condition on attributes, labels) and reconstruct back to the original. (note that colour is significantly unimportant here, maybe preprocess to BW).
-
+marr hypothesised that all that is needed to reconstruct in its entirety, a 3D object, are a sketch (details, 2.5D) and a shape prior. can an equivalent of the 2.5D sketch for 2D images be found? given a natural image, deconstruct into its sketch form, form a prototypical representation; maybe condition on attributes, labels, and reconstruct back to the original. note that colour is significantly unimportant here -- but remember to look at ryan's cog-sci colour references in the draft!
 
