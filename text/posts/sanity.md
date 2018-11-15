@@ -6,7 +6,6 @@ Things to remember / do to preserve your sanity
 wine and chocolate and tea can help most things  
 research ideas can help most others  
 you cannot help everyone   
-you should talk to family more, talk to old friends more     
 you cannot feel misery at every death toll, suicide and bomb blast in Syria / every far away place    
 read actual literature again  
 explore unseen places  
