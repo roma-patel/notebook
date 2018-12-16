@@ -22,7 +22,7 @@ want to preserve the information asymmetry aspect. one agent is assigned a task 
 
 
 
-ellie:
+w/ e!  
 
 looking at world knowledge/common ground of interacting agents and how it relates to the ability to coordinate pragmatically. pragmatic models assume coordination with respect to a shared common ground, but humans' models of the world are never identical -- how much coordination can we expect when the speaker's model of the world differs from the listener's, how much can these models differ while still allowing people to make correct inferences, and what types of incorrect inferences arise? 
 

@@ -1,0 +1,5 @@
+theories of probabilistic reasoning assume that people have a general purpose inference engine with which they can answer arbitrary queries, regardless of query distributions (i.e., from a variety of probabilistic models). but if we make no assumption about the query distribution, we now lose the opportunity to reuse computations across queries. amortised inference is the ability to reuse computations and therefore incur some amount of bias due to reuse; which is arguably a strategy that peope use. 
+
+concept of amortised inference is based on the fact that people retain summary statistics of what they have encountered rather than actual samples. therefore, if queries are similar enough, we should be reusing computations and a distribution that already exists.
+
+if you ask people to generate probabilities of events or produce a distriubiton over samples, they will do this based not on the statistical probability of the event, but based on how easy it is for them to generate examples of those things happening (i.e., the availability bias)

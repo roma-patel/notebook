@@ -1,0 +1,3 @@
+spatial language understanding has so far been explored in 2D realms and entirely from language; next big advances require real-world interactive datasets, where a bot can experience everything that a human would, interact with them, and learn to survive in the environment and understand the happenings occurring around it -- for the first time, it has access to nearly all modes of informaiton that a human would, as opposed to only text and images. 
+
+will create richer data that requires scene understanding, will be in first person perspective, will be at a much larger scale (e.g., Google Maps data around the world), will have more natural language.
