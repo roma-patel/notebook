@@ -2,6 +2,14 @@
 
 ---
 
+2019  
+
+---
+
+montreal and st. viateur, SF, minnesota (?), LA and then endlessly mountain view  
+
+---
+
 2018
 
 ---
