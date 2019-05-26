@@ -26,9 +26,12 @@ _Modelling the Acquisition of Natural Language Categories._ Trevor Fountain, 201
 
 _Combining Visual Recognition and Computational Linguistics._ Marcus Rohrbach, 2014.
 
-_Transferrable Representations for Visual Recognition._ Jeffrey Donahue, 2017.
-
 _A Structured Representation of Images for Language Generation and Image Retrieval._ Desmond Elliott, 2014.
+
+_Coordinating on meaning in communication._ Robert Hawkins, 2019.
+
+_Teaching Agents with Evaluative Feedback: Communication versus Reward._
+ Mark Ho, 2018.
 
 ---
 
