@@ -97,7 +97,7 @@ wharton meetings about the strangest projects and clunch meetings with talks and
 
 acl in vancouver; being an undergrad in the midst of intimidating but always inspiring people who are actually nice (!!) and want to know what I work on (!!!). running from one room to another to sit in on talks that i've marked in the handbook, wanting to ask questions but always backing out (i'll read the paper again, i'm sure i can answer it myself, what if i misunderstood, what if it's not really relevant). getting lunch with new people every day and exploring vancouver. conferences are exhausting but i think i will grow to love this.
 
-the end of the summer when things feel strange; vn coming to stay and suddenly everything is so much better. three (?) days of laughter and walking around the city and actually being together before the three days are over and it's phone calls and messages and never enough effort put into anything.
+the end of the summer when things feel strange; vedang coming to stay and suddenly everything is so much better. three (?) days of laughter and walking around the city and actually being together before the three days are over and it's phone calls and messages and never enough effort put into anything.
 
 the last few days and soon it will be less research and more coursework, but I have learnt far more this summer than i ever have before and i can't imagine liking anything more than NLP research.
 
@@ -129,13 +129,11 @@ midnight trips to the study room to use the whiteboard to write proofs.
 
 midnight advising meetings.
 
-playing werewolves and card games with the edelmans.
+playing werewolves and card games with the edelmans. laughing when people walk by and see us chanting or clapping and following werewolves rules.
 
-cooking dinner with harsh and ansh.
+cooking dinner with harsh and ansh. being forced to chop vegetables with harsh and ansh and (?). walking back after through the woods and the stadium.
 
-being forced to chop vegetables with harsh and ansh and (?). walking back after through the woods and the stadium.
-
-eating lunch with invited speakers and hearing them talk about the strangest things. walking to nassau as a group; everyone unanimously chooses bent spoon every time.
+eating lunch with invited speakers and hearing them talk about the strangest things! walking to nassau as a group; everyone unanimously chooses bent spoon every time.
 
 getting bent spoon icecream far too often.
 
@@ -159,7 +157,7 @@ walking through the woods and we see deer that stop to let us pass.
 
 rescuing a squirrel that then injures (?) sam.
 
-trying and failing to go to new york. vn staying for a while, walking through gardens and stone buildings. drinking expensive wine and eating at places i've still not explored. awkward introductions to roommates. i felt absolutely fine, happy even, before the visit. but maybe it is because my roommates are leaving as well (six months in India? visiting Turkey?) and it is empty and sad.
+trying and failing to go to new york. vedang staying for a while, walking through gardens and stone buildings and always laughing, every few seconds. drinking expensive wine and eating at places i've still not explored. awkward introductions to roommates, the exploding champagne bottle and deborah's surprise. i felt absolutely fine, happy even, before the visit. but maybe it is because my roommates are leaving as well (six months in India? visiting Turkey?) and when vedang leaves it is quiet and sad. but then i'm lockwood drive, and there are things to do and people to deal with and then it's back to normal, and we make do with phone calls and messages.
 
 soon everyone is gone and i'm left here for another two weeks. biking around alone, exploring the library and Nassau and the woods. visiting cousins I didn't know I had and working on stray problems that come my way and starting the programming stuff, it's always fascinating to visualise the assignments. spending time in the quiet outdoors and endless woods. i'm excited to be in a more exciting place, but i think i will miss the silence and the unnoticed excellence of everyone who is here.
 
@@ -169,9 +167,9 @@ soon everyone is gone and i'm left here for another two weeks. biking around alo
 
 ---
 
-this is possibly the last summer that i will be in bombay and i want to take it all in, have a token of remembrance for the sake of posterity, but there are exams and parties and sleepovers and it's suddenly all over.
+this is possibly the last summer that i will be in bombay and i want to take it all in, have a token of remembrance for the sake of posterity, but there are exams and parties and sleepovers and it's suddenly all over. 
 
-i won't miss the noise; the smoke in the air and children on the street that you want to help, but can't. but i will miss the colour, the streets at night, the dizzying array of stalls along causeway and linking round, the furious rain, and most of allthe people. i don't know if i will ever like anyone as much as i like the people i knew here, and i also don't know if i will be (or can be?) a part of it anymore. we will always be friends; always know what is happening in our lives, but our conversations will be through messages and phone calls and always transient and fleeting and never really fulfilling. but i have no real regrets, and the years of happiness and warm weather and laughter have been worth it. 
+i won't miss the noise; the smoke in the air and children on the street that you want to help, but can't. but i will miss the colour, the streets at night, the dizzying array of stalls along causeway and linking round, the furious rain, and most of allthe people. i'll miss vedang, i'll miss every person at TSEC and in MS furiously and intensely (although judging from aish's feelings now, maybe leaving before the end was a good thing?) i don't know if i will ever like anyone as much as i like the people i knew here, and i also don't know if i will be (or can be?) a part of it anymore. we will always be friends; always know what is happening in our lives, but our conversations will be through messages and phone calls and always transient and fleeting and never really fulfilling. but i have no real regrets, and the years of happiness and warm weather and laughter have been worth it. 
 
 
 ---
@@ -180,7 +178,7 @@ a ten-day long trip to a place i have never been to with people i have never spo
 
 we are in north india where people speak the same language, eat the same food and look exactly like us but it's remarkable how different everything is. 
 
-exploring places and sneaking out every night. 
+exploring places and sneaking out every night. trying and failing to hide things we're not supposed to have on us, but the teachers seem to only fleetingly care, so we carry on.
 
 dancing to horrifically terrible music the first night and laughing as each song gets worse.
 
@@ -206,13 +204,23 @@ the final train ride is filled with the usual laughter, but we're all sad that t
 
 another ten-day long trip (i really think these should be made compulsory, everyone must experience the strangeness and wonderfulness and happiness of it all) and this time i know everyone i will be living with.
 
-jim corbett national park; i never saw a tiger, only endless tracks that mark its presence, but the place is wonderful.  
+meeting raj khot for the first time ever when vedang and i are reading on the train.  
+
+jim corbett national park; i never saw a tiger, only endless tracks that mark its presence, but the place is wonderful. vedang and i exhaustively explore the grounds.
 
 looking out over the valley from the top of the mountain.
 
 singing along the trails with Aish, walking along mountain paths.
 
-early morning wildlife tour trip.
+standing in the sunlight at the top of the hill, sonali and aish and i take endless pictures of everything around us.
+
+the exclusive scomm party that we go to. what unfolds is a night of drinking, dancing, and too much drama. sanch freezes, cries, we wake up and have to get to a hospital. sona and i help praj.. endlessly throw up in the tiny bathroom. 
+
+deepam and the painting, and we'll remember this story for years.
+
+the endless balcony with vedang, the tiny room with the painting, the train stalls.
+
+early morning wildlife tour trips, late night safari rides. 
 
 walking to the deserted lawn, being followed by strange people.
 
@@ -227,6 +235,9 @@ rafting in ice cold water. Arjun falling off the raft, we laugh hysterically the
 ---
 
 post-IIT exhaustion, throwback to high-school, TEDx and rainy days
+
+the TEDx family! walking along the dirty street, sitting in the ice-cold office all day  
+
 
 ---
 
@@ -255,9 +266,9 @@ aviva falling, breaking her leg
 
 from school?
 
-dancing on the bed and singing with makeshift hairspray mics.
+dancing on the bed at di's and singing with makeshift hairspray mics.
 
-week long sleepovers and drives to weekend getaways with Tvish.
+week long sleepovers and drives to weekend getaways with Tvish. amby valley and the vineyards and motorbikes, mahbaleshwar and strawberries, lonavla? 
 
 long walks on carter road.
 
