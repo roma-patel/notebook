@@ -18,15 +18,11 @@ _Situated Understanding and Learning of Natural Language._ Yoav Artzi, 2015.
 
 _Grounding Natural Language with Autonomous Interaction._ Karthik Narasimhan, 2017.
 
-_Compositional Lexical Entailment for Natural Language Inference._ Ellie Pavlick, 2017.
-
 _Learning Visually Grounded Meaning Representations._ Carina Silberer, 2015.
 
 _Modelling the Acquisition of Natural Language Categories._ Trevor Fountain, 2013.
 
-_Combining Visual Recognition and Computational Linguistics._ Marcus Rohrbach, 2014.
-
-_A Structured Representation of Images for Language Generation and Image Retrieval._ Desmond Elliott, 2014.
+_Autonomous Robot Skill Acquisition._ George Konidaris, 2011.
 
 _Coordinating on meaning in communication._ Robert Hawkins, 2019.
 
@@ -47,6 +43,8 @@ _Compositional Visual Intelligence._ Justin Johnson, 2018.
 
 names slipping away.
 
-luke and dieter fox's student, noah goodman's student (postdoc?), tom's student, post-doc, anna something, max planck, MIT and what ellie mentioned once?
+luke and dieter fox's student, noah goodman's student (postdoc?), tom's student, post-doc, anna something, max planck, MIT and what ellie mentioned once?  
+
+add dave abel's master's thesis!
 
 ---
