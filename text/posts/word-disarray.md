@@ -1,7 +1,7 @@
 
 ---
 
-there’s harmony musical symphony euphony an alignment of stars consonance symmetry transient spell evanesce disappear consigned to oblivion immersed deep in fear windstorm tempest shivering cloak envelop despair asphyxiate choke enshroud iniquity alternative bleak transgress immoral solace seek – precipitous occurrence transitory rapture bitterness dimmed momentary capture stoke flame flare unforeseen drown in the blaze none intervene – conflagrate fumes engulf smother downfall of euphoria fatal for another
+there’s harmony musical symphony euphony an alignment of stars consonance symmetry transient spell evanesce disappear consigned to oblivion immersed deep in fear windstorm tempest shivering cloak envelop despair asphyxiate choke enshroud iniquity alternative bleak transgress immoral solace seek – precipitous occurrence transitory rapture bitterness dimmed momentary capture stoke flame flare unforeseen drown in the blaze none intervene – conflagrate fumes engulf smother downfall of euphoria fatal for another  
 
 ---
 
