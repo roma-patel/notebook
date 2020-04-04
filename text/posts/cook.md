@@ -97,6 +97,18 @@ pumpkin, sweet potato, butternut squash, carrots (anything orange-hued allowed!)
 
 ---
 
+hazelnut praline cookies
+.
+hazelnuts (whole or ground), brown sugar, honey, flour, cocoa powder, dark cooking chocolate, milk cooking chocolate. eggs. butter.
+
+---
+
+pumpkin shrimp lentil soup
+.
+red lentils. pumpkin. peeled shrimp. spinach. paprika. parsley. garlic. sea salt. cayenne pepper (or pepper flakes). vegetable stock (to taste). winter thyme.
+
+---
+
 thai basil drunken noodles
 .
 
