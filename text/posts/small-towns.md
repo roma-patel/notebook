@@ -14,7 +14,7 @@ galena, illinois.
 bar harbour, maine.  
 genoa, nevada. 
 tulum, mexico.   
-shirakawa-go, japan.
+shirakawa-go, japan.  
 wanaka, new zealand.  
 hallstatt, austria.  
 suzdal, russia.  
