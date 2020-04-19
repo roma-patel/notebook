@@ -4,7 +4,7 @@ a neverending list of idyllic places to be visited in time
 shirakawa-go, japan.  
 sitka, alaska.  
 sedona, arizona.  
-salem, massachusetts. 
+salem, massachusetts.  
 cesky krumlov, czech republic.  
 santa maddalena, italy.   
 carmel, california.  
