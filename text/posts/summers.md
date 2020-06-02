@@ -2,10 +2,33 @@
 
 ---
 
+2020  
+
+---
+
+vedang  
+
+remotely in london  
+
+---
+
 2019  
 
 ---
 
+driving two cars up to montreal, pit-stops for forgotten passports and diners along the way; we drive through vermont, speed past the wintry highways and the trees that are only just beginning to regain colour. the airbnb, going grocery shopping together, the game of thrones finale with new canadian friends and then three blurry days of fascinating robots. the boston dynamics dog walks by us, uncomfortably close, the sand castle robots enthrall us (we watch it over and over, at least 6 times?) and the ever-present beams follow people around. the auditorium is gigantic, i couldn't see everyone in the room even if i tried. the first keynote lacks excitement (or maybe it was me, hoping for too much), but the contributed talks are excellent. i take notes, scrappily---both in my notebook and also typed into an editor, those of us at the table excitedly question little things, but mostly listen in silence. stefanie whirs by, we shout across elevators and then never see her again, but the rest of us stay together as a group and take in the conference, and after, the rest of montreal. poutine, hand-pulled noodles, strange teas and the gloriously presented sweet-water bagels that montreal cafes seem to pride themselves on. we walk through mcgill (we have our very own tour guide in the lab), see the statued man painlessly enduring the wind, never daring to move. on the last night, we drink too many shots, of too-sweet liquor, and almost don't survive it, but then we do. our plans to drive back are flouted---our car has punctured tires, and we waste hours trying to arrange for it to be fixed. most of us are too tired to drive, as a result of which, we swerve a little too much for comfort, and nearly die at least thrice along the way. but we make it back, and i sleep for 16 hours straight.  
+
+two days after, flying to california. 
+
+flying to LA for my first ICML.
+
+flying to minnesota for another NAACL; i miss the lab and i'm excited to be out of california.
+
+trips to berkeley, greek theatre concerts, visiting san francisco, the sf office with ashish and aku, the carmel weekend, walking around stanford, cycling back from google every night, the music room with archit, the coffeeshops with aku and shreya, anime fridays at aku's, sitting next to tim and judging each other's coffee intake throughout the day, walking work breaks with shailee and atamkin, going to the dosa place with everyone, missing home, missing vedang, hiking with ishan and arsha, sidd's party, the strangeness at the end, and finally leaving.  
+
+leaving mountain view to come back home, to providence.
+
+ 
 montreal and st. viateur, SF, minnesota (?), LA and then endlessly mountain view  
 
 ---
@@ -42,7 +65,7 @@ new york for the JSALT planning meeting. meeting sam, ian, alex (who I now see p
 
 another advising meeting with ellie at google. everything is rushed, but we continue our discussion - at the office, in the lift, walking on the street and in between conference room meetings. there is always so much to say and update on and think about with coordination and RSA and vision, grounding, prototypes, exemplars. 
 
-google funded happy hour at an (underground?) bar. dipanjan's stories inevitably involve pizza and his sons and are somehow always entertaining.
+a google funded happy hour at an (underground?) bar. dipanjan's stories inevitably involve pizza and his sons and are somehow always entertaining.
 
 two entire days of NYU conference rooms, fixing down workflows, subteams, model architectures and objectives. breaking for dinner and drinks and reconvening the next day.
 
@@ -52,15 +75,26 @@ walking back to Penn station, meeting tom who is on the same train, but forgot, 
 
 ---
 
-new orleans for naacl.
+new orleans for naacl. sitting next to the water with ellie, ian, jacob etc., listening to the strange stories and amusing what-ifs. buying beer at liquor shops and walking on streets with it, because we can. beignets with powdered sugar that follow us, like trails. listening to the fascinating talks, the keynotes, meeting a whirlwind of exciting people, fending off questions as i present, trying to not let my mind atrophy as it takes in too much fascinating information. going back to penn, inspired, excited, before finally packing up and leaving forever.
+
 
 ---
 
 JSALT!
 
+daily standups with the pressure of important people having expectations, sitting in the same room and trying to concentrate amidst the furious typing and nervous energy, the intermittent, urgently-called meetings to discuss progress, the presentations in the JHU auditorium, the mandatory coffee breaks and sugared treats at 3, the walks around JHU, the trips to the grocery store, the pool table nights with desmond instructing us, the drinking around the pool table exchanging stories, the card games, the board games, the bar crawls, the family barbeques and dinners and happy hours,  
+
+(packing things up, all the memories and memoirs, saving too many things that vedang gave me, most of which i don't need, but will want, i know, and cannot bear to throw away)  
+
+
+
 ---
 
 Saarbrucken, Germany and wonderful people, none of whom I will see again?
+
+strange german breakfasts, that are near identical to the lunches and dinners. the hostel they direct us to is old, with minimal furnishing. the circle in the beginning, with endless introductions; somehow the five of us become instant friends, and stick together from that day onwards. the first night at an outdoor german bar, paulette and jeb guide us to a different bar, and kieran gets lost? we're all there an hour later, finish two (three?) bottles of wine and whiskey and panick, when we realise we don't know the way back to the youth hostel. the night next to the lake where we talk about sad, dark things and stand in a circle, laughing at how we must look like a cult to onlookers. we run, full speed, whilst drunk, back to the hostel and someone convinces us to to the basement. we reach the ping pong table, carefully lay out the remaining bottles of wine on the table, and then they all come crashing down; a deafening sound in the middle of the night. remarkably, no one comes to check on us, but we're panicking, clearing up shards of glass, trying to put the ping pong table together. we're half laughing, half scared and we make our way back and go to sleep. we joke the next day of how it never happened, sit through lectures bleary-eyed and sleep-deprived, and try to actually sleep that night. the next day is supposed to be our trip to france, but i stay back and sit in on talks instead. jordan tells me fascinating nlp stories, and john has interesting perspectives, which were useful to hear. the others get back around evening, at the fancy dinner, and the fivee of us head out and walk on empty streets together after. on the last day, it's only jeb and ashay and me (and kieran?) at five in the morning, dragging suitcases through streets, saying goodbyes at airports and promising to keep in touch, to always remember this strange, seven-day friendship.  
+
+the train ride back is quiet, since we're exhausted. i remember the mountains, remember vedang's stories of germany and of devika, and try to stay awake to get us all off at the right stop.  
 
 ---
 
