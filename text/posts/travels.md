@@ -216,6 +216,8 @@ To be seen!
 
 st. etienne, france (the book from 8th grade, saint stephen's church)  
 marseille, france (the oldest city in france, the fort saint jean, la major cathedral, notre dame de la garde)  
+istanbul, turkey (grand bazaar, hagia sophia, topkapi)  
+aleppo, syria (battle of aleppo, caravanserai)  
 transylvania, romania (bran castle, dracula, the gothic black church, brasov)    
 freiburg, germany (the black forest, the winery, rhine valley)  
 jaipur, rajasthan (hava mahal, jai mahal, forts, the lily pool, albert hall)  
