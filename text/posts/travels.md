@@ -205,6 +205,27 @@ freiburg, germany (black forest, rhine valley)
 canterbury, england (the book, 
 cambridge, england (the fitzwilliam, library, anglesey abbey. national horse racing museum)  
 oxford, england (alice in wonderland, sheldonian theatre, oxford castle, the maze in blenheim palace)  
-salem, massachussetts (salem witch trial things)
+salem, massachussetts (salem witch trial things)  
+
+a list of idyllic small towns to be visited in time  
+
+
+shirakawa-go, japan.  
+sitka, alaska.  
+sedona, arizona.  
+salem, massachusetts.  
+cesky krumlov, czech republic.  
+santa maddalena, italy.   
+carmel, california.  
+mystic, connecticut.  
+st ives, cornwall.  
+galena, illinois.  
+bar harbour, maine.  
+genoa, nevada. 
+tulum, mexico.   
+shirakawa-go, japan.  
+wanaka, new zealand.  
+hallstatt, austria.  
+suzdal, russia.  
  
 ---
