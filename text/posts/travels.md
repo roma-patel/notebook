@@ -158,6 +158,10 @@ nainital, uttarakhand, india
 
 ---
 
+amritsar, punjab, india
+
+---
+
 goa, maharashtra, india
 
 ---
@@ -182,7 +186,19 @@ mauritius, africa
 
 ---
 
+andaman and nicobar islands
+
+---
+
+lakshwadeep islands
+
+---
+
 melbourne, australia
+
+---
+
+sri lanka
 
 ---
 
@@ -200,12 +216,16 @@ To be seen!
 
 st. etienne, france (the book from 8th grade, saint stephen's church)  
 marseille, france (the oldest city in france, the fort saint jean, la major cathedral, notre dame de la garde)  
-transylvania, romania (bran castle, dracula)  
-freiburg, germany (black forest, rhine valley)  
-canterbury, england (the book, 
+transylvania, romania (bran castle, dracula, the gothic black church, brasov)    
+freiburg, germany (the black forest, the winery, rhine valley)  
+jaipur, rajasthan (hava mahal, jai mahal, forts, the lily pool, albert hall)  
+hampi, karnataka (all medieval hindu ruins, achyutaraya temple)  
+canterbury, england (the book, the cathedral, the murder of thomas becket)  
 cambridge, england (the fitzwilliam, library, anglesey abbey. national horse racing museum)  
 oxford, england (alice in wonderland, sheldonian theatre, oxford castle, the maze in blenheim palace)  
 salem, massachussetts (salem witch trial things)  
+darjeeling, west bengal (tibettan budhist monastery, tea plantations, gardens, zoological park)  
+assam, india (kaziranga, tea plantations, dibru)  
 
 a list of idyllic small towns to be visited in time  
 
