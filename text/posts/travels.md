@@ -194,11 +194,7 @@ lakshwadeep islands
 
 ---
 
-melbourne, australia
-
----
-
-sri lanka
+melbourne, australia  
 
 ---
 
