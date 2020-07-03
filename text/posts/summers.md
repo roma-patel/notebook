@@ -16,15 +16,27 @@ remotely in london
 
 ---
 
-driving two cars up to montreal, pit-stops for forgotten passports and diners along the way; we drive through vermont, speed past the wintry highways and the trees that are only just beginning to regain colour. the airbnb, going grocery shopping together, the game of thrones finale with new canadian friends and then three blurry days of fascinating robots. the boston dynamics dog walks by us, uncomfortably close, the sand castle robots enthrall us (we watch it over and over, at least 6 times?) and the ever-present beams follow people around. the auditorium is gigantic, i couldn't see everyone in the room even if i tried. the first keynote lacks excitement (or maybe it was me, hoping for too much), but the contributed talks are excellent. i take notes, scrappily---both in my notebook and also typed into an editor, those of us at the table excitedly question little things, but mostly listen in silence. stefanie whirs by, we shout across elevators and then never see her again, but the rest of us stay together as a group and take in the conference, and after, the rest of montreal. poutine, hand-pulled noodles, strange teas and the gloriously presented sweet-water bagels that montreal cafes seem to pride themselves on. we walk through mcgill (we have our very own tour guide in the lab), see the statued man painlessly enduring the wind, never daring to move. on the last night, we drink too many shots, of too-sweet liquor, and almost don't survive it, but then we do. our plans to drive back are flouted---our car has punctured tires, and we waste hours trying to arrange for it to be fixed. most of us are too tired to drive, as a result of which, we swerve a little too much for comfort, and nearly die at least thrice along the way. but we make it back, and i sleep for 16 hours straight.  
+driving two cars up to montreal, pit-stops for forgotten passports and diners along the way; we drive through vermont, speed past the ice cream factory, the wintry highways and the trees that are only just beginning to regain colour. 
+
+the airbnb, going grocery shopping together, the game of thrones finale with new canadian friends and then three blurry days of fascinating robots. the boston dynamics dog walks by us, the sand castle robots enthrall us (we watch it over and over, at least 6 times?) and the ever-present beams follow people around. 
+
+the auditorium is gigantic, i couldn't see everyone in the room even if i tried. the first keynote lacks excitement, but the contributed talks are excellent. i take notes, scrappily---both in my notebook and also typed into an editor, eric and max and i excitedly argue about little things, but mostly listen in silence. 
+
+stefanie whirs by, we shout across elevators and then never see her again, but the rest of us stay together as a group and take in the conference, and after, the rest of montreal. 
+
+poutine, hand-pulled noodles, strange teas and the gloriously presented sweet-water bagels that montreal cafes seem to pride themselves on. we walk through mcgill (we have our very own tour guide in the lab), see the statued man painlessly enduring the wind, never daring to move. on the last night, we drink too many shots, of too-sweet liquor, and almost don't survive it, but then we do. 
+
+plans to drive back somewhat fail---our car has punctured tires, and we waste hours trying to arrange for it to be fixed. most of us are too tired to drive, as a result of which, we swerve a little too much for comfort, and nearly die at least thrice along the way. but we make it back, and i sleep for 16 hours straight.  
 
 two days after, flying to california. 
 
 flying to LA for my first ICML.
 
-flying to minnesota for another NAACL; i miss the lab and i'm excited to be out of california.
+flying to minnesota for another NAACL; i miss the lab and, as always, i'm excited to be out of california.
 
-trips to berkeley, greek theatre concerts, visiting san francisco, the sf office with ashish and aku, the carmel weekend, walking around stanford, cycling back from google every night, the music room with archit, the coffeeshops with aku and shreya, anime fridays at aku's, sitting next to tim and judging each other's coffee intake throughout the day, walking work breaks with shailee and atamkin, going to the dosa place with everyone, missing home, missing vedang, hiking with ishan and arsha, sidd's party, the strangeness at the end, and finally leaving.  
+trips to berkeley, greek theatre concerts, climbing cheapskate hill and sitting at the top, visiting san francisco, the sf office with ashish and aku, the carmel weekend, walking around stanford, cycling back from google every night.
+
+the music room with archit, the coffeeshops with aku and shreya, anime fridays at aku's, sitting next to tim at work and judging each other's coffee intake throughout the day, walking work breaks with shailee and atamkin, going to the dosa place with everyone, missing home, missing vedang, hiking with ishan and arsha, sidd's party, the strangeness at the end, and finally leaving.  
 
 leaving mountain view to come back home, to providence.
 
