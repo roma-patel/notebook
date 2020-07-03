@@ -18,7 +18,7 @@ remotely in london
 
 driving two cars up to montreal, pit-stops for forgotten passports and diners along the way; we drive through vermont, speed past the ice cream factory, the wintry highways and the trees that are only just beginning to regain colour. 
 
-the airbnb, going grocery shopping together, the game of thrones finale with new canadian friends and then three blurry days of fascinating robots. the boston dynamics dog walks by us, the sand castle robots enthrall us (we watch it over and over, at least 6 times?) and the ever-present beams follow people around. 
+the airbnb, going grocery shopping together, the game of thrones finale with new canadian friends and then three blurry days of fascinating robots. mr first RSS! the boston dynamics dog walks by us, the sand castle robots enthrall us (we watch it over and over, at least 6 times?) and the ever-present beams follow people around. 
 
 the auditorium is gigantic, i couldn't see everyone in the room even if i tried. the first keynote lacks excitement, but the contributed talks are excellent. i take notes, scrappily---both in my notebook and also typed into an editor, eric and max and i excitedly argue about little things, but mostly listen in silence. 
 
@@ -30,9 +30,9 @@ plans to drive back somewhat fail---our car has punctured tires, and we waste ho
 
 two days after, flying to california. 
 
-flying to LA for my first ICML.
+flying to LA for my first ICML. jacob's talk, karl's talk, sitting at a table outside with ellie, presenting the poster, missing the next talk, meeting exciting people and reading exciting things presented.
 
-flying to minnesota for another NAACL; i miss the lab and, as always, i'm excited to be out of california.
+flying to minnesota for another NAACL; i miss the lab and, as always, i'm excited to be out of california. the intern advisor hierarchy with jason, stefanie's brilliant talk, aida, yonatan, simeng; the coffeeshop on the way out, lunch with dylan and the lab. burning out after a series of conferences but internship things! and california! once again!
 
 trips to berkeley, greek theatre concerts, climbing cheapskate hill and sitting at the top, visiting san francisco, the sf office with ashish and aku, the carmel weekend, walking around stanford, cycling back from google every night.
 
@@ -135,7 +135,7 @@ walking back along the strip and eating street food that tastes so much better t
 
 back at Penn, sometimes sleeping at 3 and still waking up at 5 and going to the lab because it will be silent and dark and I will make _progress_ even through the sleep deprivation. 
 
-walking over the bridge at night, tired but happy. 
+walking over the bridge at night, tired, and sometimes happy. 
 
 sometimes frantically running scripts a day before presentations and sometimes managing to glean insight. 
 
@@ -191,7 +191,7 @@ cycling through the woods and seing the collider for the first time. stopping to
 
 exploring untraversed parts of the campus and walking over the bridge. watching the row-boats, watching people furiously practice to triumph over the other Ivys.
 
-reading in the library, always sad when my favourite armchair is occupied.
+reading in the library bottom room, always sad when my favourite armchair is occupied.
 
 the Princeton art museum, the open fountain, the math library on the way home.
 
@@ -297,7 +297,7 @@ campfire nights, sitting in a circle and singing, dancing near the flames.
 
 staring into the fire as shapes begin to form.
 
-samy says i'm beautiful; the strangeness of the word, how it wasn't something that I had ever thought of until then
+samy says i'm beautiful; how it wasn't something that I had ever thought of until then
 
 kayaking in the river, swimming in the lake
 
